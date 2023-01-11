@@ -19,7 +19,7 @@ The presentation containing the final results can be found under the following l
 
 ## Presentation
 
-https://public.tableau.com/app/profile/giancarlo.sanna/viz/SportsBetting_16728372589330/SportsBettingintheU_S_A_
+https://public.tableau.com/views/SportsBetting_16728372589330/SportsBettingintheU_S_A_?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Data sources
 
